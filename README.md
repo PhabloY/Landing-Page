@@ -21,4 +21,4 @@ Uma landing page moderna e responsiva para promover serviços de **desenvolvimen
 2. Abra o arquivo `index.html` diretamente no navegador ou utilize uma extensão como **Live Server** no VS Code para melhor experiência.
 
 ## 📧 Contato
-Para mais informações, entre em contato pelo e-mail: **contato@digitalsolutions.com**.
+Para mais informações, entre em contato pelo e-mail: **yuripw3p@outlook.com**.
